@@ -2,9 +2,40 @@
     height: 300px;
     color: white;
     background-color: black;
-    margin-left: 100px;
 }
 .content h1{
-    padding: 10px;
+    padding: 5px;
     padding-top: 90px;
+    margin-left: 100px;
+}
+.content h2{
+    color: gold;
+    margin-left: 100px;
+    padding: 5px;
+}
+
+.buttons{
+    margin-left: 100px;
+}
+.buttons .hire{
+    color: white;
+    border: 1px solid blueviolet;
+    width: 150px;
+    transition: 0.5s ease-in;
+}
+.buttons .cv{
+    border: 1px solid gold;
+    margin-left: 30px;
+    color: white;
+    width: 150px;
+    transition: 0.5s ease-in;
+}
+.buttons .hire:hover{
+background-color: blueviolet;
+color: white;
+}
+.buttons .cv:hover{
+    background-color:rgb(234, 188, 38);
+    color: white;
+    border: none;
 }
