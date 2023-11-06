@@ -74,3 +74,5 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 ### `React Icons` for icons
 
 ### `type writter` for loop play of test
+ 
+### `React Reveal `  nimation framework for React. It's MIT licensed, has a tiny footprint and written specifically for React in ES6. It can be used to create various cool reveal on scroll animations in your application. If you liked this package, don't forget to star the Github repository.
