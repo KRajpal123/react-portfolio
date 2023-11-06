@@ -3,18 +3,19 @@
     color: white;
     background-color: black;
 }
-.content h1{
+.content h2{
     padding: 5px;
     padding-top: 90px;
     margin-left: 100px;
+  
 }
-.content h2{
+.content h1{
     color: gold;
-    margin-left: 100px;
     padding: 5px;
+    margin-left: 100px;
 }
-
 .buttons{
+    margin-top: 30px;
     margin-left: 100px;
 }
 .buttons .hire{

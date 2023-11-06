@@ -1,0 +1,9 @@
+.tech{
+    padding-left: 100px;
+    margin-top: 40px 0px;
+}
+.tech hr{
+    color: green;
+    width: 400px;
+    margin: 10px auto;
+}
