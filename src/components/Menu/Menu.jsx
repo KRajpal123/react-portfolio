@@ -22,13 +22,13 @@ const Menu = ({ toggle }) => {
                                     <span><FcAbout /></span>About
                                 </div>
                                 <div className="nav-link">
+                                    <span><FcReadingEbook /></span>Education
+                                </div>
+                                <div className="nav-link">
                                     <span><FcBusinessman /></span>Work Experience
                                 </div>
                                 <div className="nav-link">
                                     <span><FcBiotech /></span> Technology
-                                </div>
-                                <div className="nav-link">
-                                    <span><FcReadingEbook /></span>Education
                                 </div>
                                 <div className="nav-link">
                                     <span><BsProjector /></span>Projects
@@ -53,13 +53,13 @@ const Menu = ({ toggle }) => {
                                     <FcAbout title='about' />
                                 </div>
                                 <div className="nav-link">
+                                    <FcReadingEbook title='Education' />
+                                </div>
+                                <div className="nav-link">
                                     <FcBusinessman title='work' />
                                 </div>
                                 <div className="nav-link">
                                     <FcBiotech title='technology' />
-                                </div>
-                                <div className="nav-link">
-                                    <FcReadingEbook title='Education' />
                                 </div>
                                 <div className="nav-link">
                                     <BsProjector title='Projects'/>
